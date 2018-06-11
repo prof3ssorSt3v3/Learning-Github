@@ -1,0 +1,11 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 48px;
+}
+h1{
+    font-size: 2rem;
+}
