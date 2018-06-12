@@ -1,11 +1,34 @@
-*{
-    padding:0;
-    margin: 0;
+
+*{ 
+    padding: 0; 
+    margin: 0; 
+}
+html {
     box-sizing: border-box;
+    font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Helvetica Neue", "Arial", sans-serif; 
+    font-size: calc(1.5vh + 1vw + 1%); 
+    line-height: 1.5; 
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
-html{
-    font-size: 48px;
+*, *::before, *::after {
+    box-sizing: inherit;
 }
-h1{
-    font-size: 2rem;
+body{ 
+    overflow: auto; 
+    min-height: 100vh; 
+    width: 100%; 
+}
+
+main, header{
+    padding: 1rem 2rem;
+}
+p{
+    padding: 0.5rem 0;
+}
+img{
+    width: 100px;
+    height: auto;
 }
