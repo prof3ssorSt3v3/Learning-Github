@@ -1,7 +1,5 @@
 # Learning-Github
 ## sub heading
-### This Heading Added by Pitcher17
-
 Just a sample repo for learning the basics of GitHub.
 
 more text with two line breaks between.
