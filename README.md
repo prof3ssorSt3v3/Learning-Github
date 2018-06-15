@@ -1,5 +1,9 @@
 # Learning-Github
 ## sub heading
+<<<<<<< HEAD
+### NEW HEADING
+=======
+>>>>>>> parent of fa6aa87... Added to Readme.md
 Just a sample repo for learning the basics of GitHub.
 
 more text with two line breaks between.
