@@ -25,7 +25,7 @@ let num = Math.random();
 
 ![alt text](http://picsum.photos/200/200)
 
-Some paragraph with text
+Some paragraph with text.
 > blockquote text below the paragraph
 
 | heading | header | head |
